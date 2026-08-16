@@ -7,7 +7,7 @@
 
 ### `stack`
 
-`Python` · `JavaScript` · `HTML` · 
+`Python` · `JavaScript` · `HTML` · `CSS`
 
 ### `currently`
 
