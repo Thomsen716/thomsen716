@@ -5,9 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/thomsen716)
 [![Profile Views](https://komarev.com/ghpvc/?username=thomsen716\&style=flat-square\&color=grey)](https://github.com/thomsen716)
 
-### `stack`
-
-`Python` · `JavaScript` · `HTML` · `CSS`
 
 ### `currently`
 
